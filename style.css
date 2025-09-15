@@ -69,7 +69,8 @@
     .King h1,
     .Home h1,
     .History h1,
-    .Temple h1 {
+    .Temple h1,
+    .About h1{
       font-size: 1.2rem;
       line-height: 1.6;
       color: #2c3e50;
